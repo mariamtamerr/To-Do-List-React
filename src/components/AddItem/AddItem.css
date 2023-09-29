@@ -1,0 +1,58 @@
+
+
+.container.item{
+
+    border: 3px solid grey;
+    margin-top: 1rem;
+    height:50%; 
+    position: relative;
+    color: white;
+ 
+}
+
+.container.item input{
+
+    width: 95%;
+    position: absolute;
+    left: 1rem;
+    top: 9rem;
+    border-radius: 0.5rem;
+    font-size: 2rem;
+   
+
+}
+
+
+.blue {
+    background-color: rgb(18, 110, 110);
+    height: 95%;
+    width: 95%;
+    position: absolute;
+    /* top: 5px; */
+    top: 0.6rem;
+    left: 1rem; 
+
+}
+
+
+.container.item button {
+    position: absolute;
+    bottom: 4rem;
+    padding: 1rem 2rem;
+    color: white;
+    border: 1px solid white;
+    right: 4rem;
+}
+
+.container.item h1 {
+    position: absolute;
+    top: 2rem;
+    font-size: 2.4rem;
+}
+
+.container.item h6 {
+    position: absolute;
+    top: 6rem;
+    right: 4rem;
+}
+
